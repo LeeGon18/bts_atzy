@@ -1,0 +1,43 @@
+body{
+    background-image: url('../img/myeongdong-fondo.jpg');
+}
+.fondo {
+    background: #FCF3CF;
+    width: 1000px;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    border-radius: 15px;
+}
+h1{
+    font-size: 70px;
+    color: dodgerblue;
+}
+h2{
+    font-size: 45px;
+    color:darkturquoise;
+}
+h3{
+    font-size: 35px;
+    color: forestgreen;
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+ul{
+    text-align: justify;
+    font-size: 20px;
+}
+.imagen{
+    width: 300px;
+    text-align: center;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    color:darkslategrey;
+}
